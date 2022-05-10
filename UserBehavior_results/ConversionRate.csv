@@ -1,0 +1,10 @@
+User_behavior;Amount;Conversion_rate
+Click;887166;0.00%
+Click-Buy ;9759;1.10%
+Click-Add_to_cart;26639;3.00%
+Click-Add_to_cart-Buy;2863;10.75%
+Click-Add_to_favorite;10752;1.21%
+Click-Add_to_favorite-Buy;936;8.71%
+Click-Add_to_favorite-Add_to_cart;1631;0.18%
+Click-Add_to_favorite-Add_to_cart-Buy;143;8.77%
+Click-Lose_customer;781384;88.80%
